@@ -18,14 +18,14 @@ Trabalho final Samuel Melo
      - finalidade
 
        O usuário pode visualizar as reservas com a opção 2 (Visualizar reservas), o resultado será:
-       - Liats de reservas
+       - Lista de reservas
        - (conteúdo salvo de reservas)
       
          O usuário pode editar sua reserva com a opção 3 (Editar Reserva), , o sistema perguntará:
          - O índice da reserva que deseja editar ( 0 )
          - Qual informação deseja editar? - nome, data, horário, sala, finalidade
         
-           O usuário irá escolher o que for editar e substituirá/alterar o conteúdo desejado.
+           O usuário irá escolher o que for editar e modificar/substituirá/alterar o conteúdo desejado.
 
            O usuário poderá deletar sua reserva com a opção 4 (deletar reserva), o sistema irá perguntar qual reserva deseja deletar, o usuário escolhe as opções (0, 1, 2, 3,...)
 
