@@ -24,3 +24,12 @@ Trabalho final Samuel Melo
          O usuário pode editar sua reserva com a opção 3 (Editar Reserva), , o sistema perguntará:
          - O índice da reserva que deseja editar ( 0 )
          - Qual informação deseja editar? - nome, data, horário, sala, finalidade
+        
+           O usuário irá escolher o que for editar e substituirá/alterar o conteúdo desejado.
+
+           O usuário poderá deletar sua reserva com a opção 4 (deletar reserva), o sistema irá perguntar qual reserva deseja deletar, o usuário escolhe as opções (0, 1, 2, 3,...)
+
+           O usuário poderá sair do sistema com a opção 5 (Sair)
+
+           ### Autores
+           - Samuel Melo
