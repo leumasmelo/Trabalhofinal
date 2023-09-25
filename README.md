@@ -25,7 +25,7 @@ Trabalho final Samuel Melo e Alexandre Bitelo
          - O índice da reserva que deseja editar 
          - Qual informação deseja editar? - nome, data, horário, sala, finalidade
         
-           O usuário irá escolher o que for editar e modificar/substituirá/alterar o conteúdo desejado.
+           O usuário irá escolher o que for editar e modificar/substituir/alterar o conteúdo desejado.
 
            O usuário poderá deletar sua reserva com a opção 4 (deletar reserva), o sistema irá perguntar qual reserva deseja deletar, o usuário escolhe as opções de 1 até o número de elementos no array
 
