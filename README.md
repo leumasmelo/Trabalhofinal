@@ -1,5 +1,5 @@
-+# Trabalhofinal
-Trabalho final Samuel Melo
+
+Trabalho final Samuel Melo e Alexandre Bitelo
 
 ## <h1>Como é o Programa Reserva de Sala de Reunião</h1>
  Trata-se de um sistema que aparece no navegador com um menu, contendo 5 opções, contendo para a criação de reservas, visualizar, editar, deletar e sair do menu
