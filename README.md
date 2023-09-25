@@ -1,7 +1,7 @@
-# Trabalhofinal
++# Trabalhofinal
 Trabalho final Samuel Melo
 
-## Como é o Programa Reserva de Sala de Reunião
+## <h1>Como é o Programa Reserva de Sala de Reunião</h1>
  Trata-se de um sistema que aparece no navegador com um menu, contendo 5 opções, contendo para a criação de reservas, visualizar, editar, deletar e sair do menu
 - 1. Criar Reservas
   2. Visualizar Reservas
@@ -9,7 +9,7 @@ Trabalho final Samuel Melo
   4. Deletar Reserva
   5. Sair
  
-     ### Como Funciona(Funcionamento prático):
+     ### <h2>Como Funciona(Funcionamento prático):</h2>
      O sistema irá perguntar dentre as 5 funções disponíveis que o usuário se utilizar, na função 1 (criar Reserva) irá conter:
      - nome
      - data
@@ -32,4 +32,5 @@ Trabalho final Samuel Melo
            O usuário poderá sair do sistema com a opção 5 (Sair)
 
            ### Autores
-           - Samuel Melo
+           - [Samuel Melo](https://github.com/leumasmelo)
+           - [Alexandre Bitelo](https://github.com/AlexandreBitelo/AlexandreBitelo)
